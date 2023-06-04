@@ -1,0 +1,26 @@
+.main{
+    display: flex;
+    justify-content: center;
+}
+.item img{
+    
+    height: 300px;
+    width: 250px;
+    padding: 50px;
+    
+    
+}
+.item{
+    /* height: 200px;
+    width: 200; */
+    flex-basis: 200px;
+    text-align: center;
+    margin: 10px;
+}
+body {
+    background-image: url('https://img.freepik.com/free-vector/decorative-tricolor-indian-flag-theme-texture_1055-7757.jpg?w=2000');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 99%; 
+  }
+
